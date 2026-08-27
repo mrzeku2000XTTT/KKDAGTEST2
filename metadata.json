@@ -1,0 +1,6 @@
+{
+  "name": "Kas Knight Guardian",
+  "description": "Guardian of the DAG - KKDAG Token Purchase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
